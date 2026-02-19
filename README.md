@@ -21,8 +21,6 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 ### 👨‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
