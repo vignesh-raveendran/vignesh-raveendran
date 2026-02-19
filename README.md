@@ -97,7 +97,6 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon_Redshift-8C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00A3E0?style=for-the-badge&logo=databricks&logoColor=white)
 
 
