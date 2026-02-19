@@ -1,6 +1,6 @@
 <!-- Animated Typing Header -->
 <h1 align="center">
-  Hi 👋 I'm Vignesh Rohan
+  Hi 👋 I'm Vignesh Raveendran
 </h1>
 
 <p align="center">
