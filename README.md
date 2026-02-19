@@ -70,6 +70,7 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-Insights-orange?style=for-the-badge)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
 
@@ -82,6 +83,14 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+## 💡 Areas of Interest
+
+- **Medallion Architecture**  
+- **Dimensional Data Modeling**  
+- **Real-time & Streaming Data Pipelines**  
+- **MLOps and AI Infrastructure**
+
+  
 ## 📌 Featured Projects
 
 ### 🔹 End-to-End Data Engineering Pipeline
