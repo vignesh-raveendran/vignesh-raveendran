@@ -15,7 +15,7 @@ I build **scalable data pipelines** and transform raw data into **meaningful bus
 Passionate about distributed systems, cloud platforms, analytics, and AI-ready architectures.
 
 🔭 Currently focused on: **Production-grade Data Engineering & Advanced Analytics**  
-🎯 Goal: Becoming a **world-class Data & AI Engineer**
+🎯 Goal: Building expertise in **Modern Data & AI systems**
 
 ---
 
