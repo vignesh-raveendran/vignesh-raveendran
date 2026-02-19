@@ -127,7 +127,7 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/vignesh-rv)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vignesh-rv/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
 
 ---
