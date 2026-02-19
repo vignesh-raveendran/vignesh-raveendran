@@ -4,8 +4,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+Spark+%7C+Cloud+%7C+Power+BI;Building+Scalable+Data+Pipelines;Turning+Raw+Data+into+Actionable+Insights;Future+Data+%26+AI+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2000&color=00FF00,00FFFF,FF00FF&background=000000&center=true&vCenter=true&width=900&lines=Data+Engineer+%7C+Data+Analyst;Python+%7C+SQL+%7C+Spark+%7C+Cloud+%7C+Power+BI;Building+Scalable+Data+Pipelines;Turning+Raw+Data+into+Actionable+Insights;Building+Toward+GenAI+%26+Agentic+AI" />
 </p>
+
 
 ---
 
