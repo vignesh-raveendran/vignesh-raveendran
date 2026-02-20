@@ -126,7 +126,6 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 - EDA & transformation in Python  
 - Interactive BI dashboards for business insights  
 
-(👉 Pin your best repositories below this section)
 
 
 ---
