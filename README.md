@@ -128,13 +128,6 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 
 (👉 Pin your best repositories below this section)
 
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
 
 ---
 
