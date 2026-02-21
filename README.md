@@ -114,17 +114,35 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ---
   
 ## 📌 Featured Projects
+### 1. [Airbnb End-to-End Analytics Engineering Pipeline]()
+**Focus:** Analytics Engineering / Data Transformations  
+**Tools Used:** `dbt` | `Snowflake` | `AWS` | `SQL`
+* Engineered a full-scale, end-to-end analytics pipeline using modern data stack principles.
+* Leveraged **dbt** (data build tool) for testing, documenting, and executing modular data transformations within **Snowflake**, deployed across **AWS** infrastructure.
 
-### 🔹 End-to-End Data Engineering Pipeline
-- Built scalable ETL pipeline using Python & Spark  
-- Cloud storage integration  
-- Data modeling with dimensional architecture  
-- Dashboard visualization with Power BI  
+### 2. [Global Energy Consumption Analytics Platform](Link_to_repo)
+**Focus:** Cloud Data Architecture / Visual Analytics  
+**Tools Used:** `AWS S3` | `Snowflake` | `Tableau Cloud`
+* Built a comprehensive analytics platform to analyze global energy consumption trends.
+* Architected the data flow using AWS S3 for data lake storage, Snowflake for cloud data warehousing, and Tableau Cloud for building the final executive dashboards.
 
-### 🔹 Analytics & KPI Dashboard System
-- SQL-based data extraction  
-- EDA & transformation in Python  
-- Interactive BI dashboards for business insights  
+### 3. [House Market Analytics Dashboard](Link_to_repo)
+**Focus:** Cloud Integration / Regional Analytics  
+**Tools Used:** `Google BigQuery` | `Power BI` | `SQL`
+* Integrated Google BigQuery with Power BI to process and visualize large-scale regional real estate data.
+* Engineered interactive dashboards to track and analyze housing market prices, supply trends, and regional disparities.
+
+### 4. [Loan Default Analysis & Financial Risk Dashboard](Link_to_repo)
+**Focus:** Financial Analytics / Risk Profiling  
+**Tools Used:** `Power BI` | `Advanced DAX` | `Incremental Refresh`
+* Developed a high-performance risk profiling dashboard to analyze and monitor loan default trends.
+* Implemented Incremental Refresh for efficient data loading and utilized complex DAX measures to create dynamic risk assessment metrics.
+
+### 5. [Electro Hub: End-to-End Sales & Product Analytics](Link_to_repo)
+**Focus:** Data Modeling / Business Intelligence  
+**Tools Used:** `Power BI` | `DAX` | `Star Schema Modeling`
+* Designed a robust Star Schema data model to optimize query performance and reporting.
+* Utilized advanced DAX to build comprehensive sales and product performance analytics, providing clear, actionable insights into revenue drivers. 
 
 
 
@@ -133,7 +151,7 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vignesh-rv/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge)](https://vignesh-raveendran.github.io/)
 
 ---
 
