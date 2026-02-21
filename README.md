@@ -120,25 +120,25 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 * Engineered a full-scale, end-to-end analytics pipeline using modern data stack principles.
 * Leveraged **dbt** (data build tool) for testing, documenting, and executing modular data transformations within **Snowflake**, deployed across **AWS** infrastructure.
 
-### 2. [Global Energy Consumption Analytics Platform](Link_to_repo)
+### 2. [Global Energy Consumption Analytics Platform](https://github.com/vignesh-raveendran/Renewable-Energy-Analytics-Platform-AWS-S3-Snowflake-Tableau-.git)
 **Focus:** Cloud Data Architecture / Visual Analytics  
 **Tools Used:** `AWS S3` | `Snowflake` | `Tableau Cloud`
 * Built a comprehensive analytics platform to analyze global energy consumption trends.
 * Architected the data flow using AWS S3 for data lake storage, Snowflake for cloud data warehousing, and Tableau Cloud for building the final executive dashboards.
 
-### 3. [House Market Analytics Dashboard](Link_to_repo)
+### 3. [House Market Analytics Dashboard](https://github.com/vignesh-raveendran/Cloud-Native-Housing-Market-Analytics-Platform-BigQuery-Power-BI-.git)
 **Focus:** Cloud Integration / Regional Analytics  
 **Tools Used:** `Google BigQuery` | `Power BI` | `SQL`
 * Integrated Google BigQuery with Power BI to process and visualize large-scale regional real estate data.
 * Engineered interactive dashboards to track and analyze housing market prices, supply trends, and regional disparities.
 
-### 4. [Loan Default Analysis & Financial Risk Dashboard](Link_to_repo)
+### 4. [Loan Default Analysis & Financial Risk Dashboard](https://github.com/vignesh-raveendran/LOAN_DEFAULT_RISK_ANALYSIS_WITH_POWER_BI_GATEWAY_INCREMENTAL_REFRESH.git)
 **Focus:** Financial Analytics / Risk Profiling  
 **Tools Used:** `Power BI` | `Advanced DAX` | `Incremental Refresh`
 * Developed a high-performance risk profiling dashboard to analyze and monitor loan default trends.
 * Implemented Incremental Refresh for efficient data loading and utilized complex DAX measures to create dynamic risk assessment metrics.
 
-### 5. [Electro Hub: End-to-End Sales & Product Analytics](Link_to_repo)
+### 5. [Electro Hub: End-to-End Sales & Product Analytics](https://github.com/vignesh-raveendran/SALES_PRODUCT_ANALYSIS_WITH_END_TO_END_DATA_MODELING_KPIs_and_TREND_INSIGHTS.git)
 **Focus:** Data Modeling / Business Intelligence  
 **Tools Used:** `Power BI` | `DAX` | `Star Schema Modeling`
 * Designed a robust Star Schema data model to optimize query performance and reporting.
