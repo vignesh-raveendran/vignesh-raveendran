@@ -114,7 +114,7 @@ Passionate about distributed systems, cloud platforms, analytics, and AI-ready a
 ---
   
 ## 📌 Featured Projects
-### 1. [Airbnb End-to-End Analytics Engineering Pipeline]()
+### 1. [Airbnb End-to-End Analytics Engineering Pipeline](https://github.com/vignesh-raveendran/AIRBNB_AWS_DBT_SNOWFLAKE_DATA_ENGINEER_PROJECT.git)
 **Focus:** Analytics Engineering / Data Transformations  
 **Tools Used:** `dbt` | `Snowflake` | `AWS` | `SQL`
 * Engineered a full-scale, end-to-end analytics pipeline using modern data stack principles.
